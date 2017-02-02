@@ -1,2 +1,2 @@
-Hello,
+Hello
 Git and Maven's practice...
